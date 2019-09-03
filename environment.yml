@@ -1,0 +1,6 @@
+name: using-matplotlib
+dependencies:
+  - python>=3.6
+  - matplotlib>=3
+  - pandas
+
