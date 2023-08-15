@@ -1,4 +1,6 @@
-name: using-matplotlib
+name: using-matplotlib23
+channels:
+  - conda-forge
 dependencies:
   - python
   - matplotlib
